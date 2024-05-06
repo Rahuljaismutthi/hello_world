@@ -1,0 +1,19 @@
+{
+  "name": "hello-world-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Rahuljaismutthi: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@github.com/Rahuljaismutthi/hello-world-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rahuljaismutthi/hello-world-app/issues"
+  },
+  "homepage": "https://github.com/Rahuljaismutthi/hello-world-app#readme"
+}
